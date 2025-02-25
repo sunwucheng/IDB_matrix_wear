@@ -4,4 +4,4 @@
 
 ***Update 2021.03.27***
 
-> *W. Sun, H. Gao, S. Tan, Z. Wang, L. Duan, Wear detection of WC-Cu based impregnated diamond bit matrix based on SEM image and deep learning, Int. J. Refract. Met. Hard Mater. 98 (2021) 105530. https://doi.org/10.1016/j.ijrmhm.2021.105530.*
+> *W. Sun, H. Gao, S. Tan, Z. Wang, L. Duan, Wear detection of WC-Cu based impregnated diamond bit matrix based on SEM image and deep learning, Int. J. Refract. Met. Hard Mater. 98 (2021) 105530. https://doi.org/10.1016/j.ijrmhm.2021.105530*
